@@ -1,7 +1,7 @@
-# JustLaunchIt
-Small patch for Oxygen not Included that allows to launch a rocket **using automation** despite any warnings. 
+# Just Launch It
+Small patch for Oxygen not Included: Spaced Out that allows to launch a rocket **using automation** despite any warnings. 
 
-- Tested on Spaced Out
+[**Steam mod link**](https://steamcommunity.com/sharedfiles/filedetails/?id=3020060237)
 
 ## tl;dr
 I know what I'm doing, let me launch that rockeeet using a switch!
@@ -16,3 +16,5 @@ Are you tired of warnings like `Fueled - The rocket has enough fuel for a one-wa
 
 
 This patch simply changes automation launch requirements from *Ready* to *Not Failure*, resulting in launching despite any Warnings. (Even Cargo Incomplete)
+
+(Honestly, the documentation for this tweak is like 10 times longer than the code itself :D)
