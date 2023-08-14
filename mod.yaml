@@ -1,3 +1,3 @@
-title: "Ignore AutoLaunchWarning" 
-description: "Automation Rocket Launch now works despite 'Insufficient fuel for the return trip' warnings"
-staticID: "IgnoreAutoLaunchWarning" 
+title: "Just Launch It" 
+description: "Enables automated rocket launch despite any warnings (e.g. Insufficient fuel for the return trip)"
+staticID: "JustLaunchIt" 

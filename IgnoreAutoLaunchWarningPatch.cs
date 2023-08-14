@@ -2,7 +2,7 @@ using HarmonyLib;
 
 namespace ONI_IgnoreAutoLaunchWarning
 {
-    public class Patches
+    public class IgnoreAutoLaunchWarningPatch
     {
         /*[HarmonyPatch(typeof(Db))]
         [HarmonyPatch("Initialize")]
